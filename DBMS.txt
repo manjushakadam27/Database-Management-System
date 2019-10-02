@@ -2,3 +2,4 @@ A database management system (DBMS) is a software package designed to define, ma
 
 A DBMS relieves users of framing programs for data maintenance. Fourth-generation query languages, such as SQL, are used along with the DBMS package to interact with a database.
 Some DBMS examples include MySQL, PostgreSQL, Microsoft Access, SQL Server, FileMaker, Oracle, RDBMS, dBASE, Clipper, and FoxPro. Since there are so many database management systems available, it is important for there to be a way for them to communicate with each other.
+Some DBMS examples include MySQL, PostgreSQL, Microsoft Access, SQL Server, FileMaker, Oracle, RDBMS, dBASE, Clipper, and FoxPro. Since there are so many database management systems available, it is important for there to be a way for them to communicate with each other.
